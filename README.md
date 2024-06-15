@@ -58,17 +58,13 @@ Aura is designed to be used as a backend for Fortnite. Ensure you have the neces
 
 If you would like to contribute to Aura, please fork the repository and submit a pull request. We welcome contributions that improve stability, add new features, or enhance performance.
 
-## Support
-
-For support, please open an issue on the [GitHub repository](https://github.com/yourusername/aura-backend/issues).
-
 ## Acknowledgements
 
 - [Momentum](https://github.com/Nexus-FN/Momentum) by [simplyzetax](https://github.com/simplyzetax)
 - [LawinServerV2](link_to_LawinServerV2) for the original backend architecture
 - [LawinServerV1](https://github.com/Lawin0129/LawinServer ) because for some functionalities that I put in the roadmap to work, I will take code from lawinv1
 
-
+## If you need support join discord
 
 ## Discord
 

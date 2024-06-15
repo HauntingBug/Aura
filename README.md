@@ -4,6 +4,8 @@
 
 Aura is a modified version of the Momentum backend, which itself is a fork and partial rewrite of the Fortnite Backend LawinServerV2. Aura aims to enhance Momentum by integrating new features and functionalities.
 
+If you use Aura Backend in your project, please give credit by mentioning it or by crediting me as alxan__ on Discord or alxan-balao on GitHub.
+
 ## Credits
 
 This project is built on top of [Momentum](https://github.com/Nexus-FN/Momentum) created by [simplyzetax](https://github.com/simplyzetax). All original code and functionality are attributed to the Momentum project and its author.
@@ -67,7 +69,6 @@ For support, please open an issue on the [GitHub repository](https://github.com/
 - [Momentum](https://github.com/Nexus-FN/Momentum) by [simplyzetax](https://github.com/simplyzetax)
 - [LawinServerV2](link_to_LawinServerV2) for the original backend architecture
 - [LawinServerV1](https://github.com/Lawin0129/LawinServer ) because for some functionalities that I put in the roadmap to work, I will take code from lawinv1
-
 
 
 ## Discord

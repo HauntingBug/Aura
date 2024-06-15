@@ -1,0 +1,2 @@
+function t(t){return void 0!==t?t:""}const n=(n,r,e,o)=>{let s;if("string"==typeof r)s=r;else{const n=o.polyfill("URLSearchParams",1,1);for(const e in r){const o=r[e];if(r[e]instanceof Array)for(const r of o)n.append(e,t(r));else n.append(e,t(o))}s=n.toString()}const i=n.split("?");return s?e||i.length<2?i[0]+"?"+s:n+"&"+s:e?i[0]:n},r={wretch:{query(t,r=0){return{...this,_url:n(this._url,t,r,this._config)}}}};export{r as default};
+//# sourceMappingURL=queryString.min.mjs.map

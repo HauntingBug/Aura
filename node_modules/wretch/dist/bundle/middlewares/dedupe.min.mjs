@@ -1,0 +1,2 @@
+const e=(e,t)=>t.skipDedupe||"GET"!==t.method,t=(e,t)=>t.method+"@"+e,r=e=>e.clone(),o=({skip:o=e,key:n=t,resolver:c=r}={})=>{const s=new Map;return e=>(t,r)=>{if(o(t,r))return e(t,r);const h=n(t,r);if(s.has(h))return new Promise(((e,t)=>{s.get(h).push([e,t])}));s.set(h,[]);try{return e(t,r).then((e=>(s.get(h).forEach((([t])=>t(c(e)))),s.delete(h),e))).catch((e=>{throw s.get(h).forEach((([t,r])=>r(e))),s.delete(h),e}))}catch(e){return s.delete(h),Promise.reject(e)}}};export{o as dedupe};
+//# sourceMappingURL=dedupe.min.mjs.map

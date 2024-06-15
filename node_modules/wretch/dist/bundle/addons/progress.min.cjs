@@ -1,0 +1,2 @@
+"use strict";module.exports=()=>{function e(e){return r=>(t,s)=>{let n=0,o=0;return r(t,s).then((r=>{try{const t=r.headers.get("content-length");o=t?+t:null;const s=new TransformStream({transform(r,t){n+=r.length,o<n&&(o=n),e.progress&&e.progress(n,o),t.enqueue(r)}});return new Response(r.body.pipeThrough(s),r)}catch(e){return r}}))}}return{beforeRequest:(r,t,s)=>r.middlewares([e(s)]),resolver:{progress(e){return this._sharedState.progress=e,this}}}};
+//# sourceMappingURL=progress.min.cjs.map

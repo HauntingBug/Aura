@@ -1,0 +1,2 @@
+function n(n,o){return encodeURIComponent(n)+"="+encodeURIComponent("object"==typeof o?JSON.stringify(o):""+o)}const o={wretch:{formUrl(o){return this.body("string"==typeof o?o:(t=o,Object.keys(t).map((o=>{const e=t[o];return e instanceof Array?e.map((t=>n(o,t))).join("&"):n(o,e)})).join("&"))).content("application/x-www-form-urlencoded");var t}}};export{o as default};
+//# sourceMappingURL=formUrl.min.mjs.map

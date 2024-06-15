@@ -1,0 +1,51 @@
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": [
+            "AthenaBackpack:BID_486_WinterHunterMale"
+        ],
+        "price": 200
+    },
+    "daily2": {
+        "itemGrants": [
+            "AthenaBackpack:BID_365_MascotMilitiaCuddle"
+        ],
+        "price": 1200
+    },
+    "daily3": {
+        "itemGrants": [
+            "AthenaLoadingScreen:LSID_099_PirateTheme"
+        ],
+        "price": 500
+    },
+    "daily4": {
+        "itemGrants": [
+            "AthenaDance:EID_Snap"
+        ],
+        "price": 500
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaItemWrap:Wrap_196_TigerJaw"
+        ],
+        "price": 200
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaItemWrap:Wrap_092_Sarong"
+        ],
+        "price": 200
+    },
+    "featured1": {
+        "itemGrants": [
+            "AthenaCharacter:CID_759_Athena_Commando_F_RapVillainess"
+        ],
+        "price": 1200
+    },
+    "featured2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_494_Athena_Commando_M_MechPilotShark"
+        ],
+        "price": 800
+    }
+}

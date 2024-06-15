@@ -1,0 +1,2 @@
+"use strict";const e=(e,t)=>t.skipDedupe||"GET"!==t.method,t=(e,t)=>t.method+"@"+e,r=e=>e.clone();exports.dedupe=({skip:s=e,key:o=t,resolver:c=r}={})=>{const n=new Map;return e=>(t,r)=>{if(s(t,r))return e(t,r);const h=o(t,r);if(n.has(h))return new Promise(((e,t)=>{n.get(h).push([e,t])}));n.set(h,[]);try{return e(t,r).then((e=>(n.get(h).forEach((([t])=>t(c(e)))),n.delete(h),e))).catch((e=>{throw n.get(h).forEach((([t,r])=>r(e))),n.delete(h),e}))}catch(e){return n.delete(h),Promise.reject(e)}}};
+//# sourceMappingURL=dedupe.min.cjs.map

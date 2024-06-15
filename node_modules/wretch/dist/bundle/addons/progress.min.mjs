@@ -1,0 +1,2 @@
+const e=()=>{function e(e){return r=>(t,n)=>{let s=0,o=0;return r(t,n).then((r=>{try{const t=r.headers.get("content-length");o=t?+t:null;const n=new TransformStream({transform(r,t){s+=r.length,o<s&&(o=s),e.progress&&e.progress(s,o),t.enqueue(r)}});return new Response(r.body.pipeThrough(n),r)}catch(e){return r}}))}}return{beforeRequest:(r,t,n)=>r.middlewares([e(n)]),resolver:{progress(e){return this._sharedState.progress=e,this}}}};export{e as default};
+//# sourceMappingURL=progress.min.mjs.map

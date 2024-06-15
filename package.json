@@ -20,7 +20,7 @@
     "escape-string-regexp": "^5.0.0",
     "express": "^4.18.2",
     "express-limit": "^1.0.0",
-    "express-rate-limit": "^6.7.0",
+    "express-rate-limit": "^7.3.1",
     "filter-console": "^1.0.0",
     "hyper-express": "^6.7.1",
     "ini": "^4.1.1",

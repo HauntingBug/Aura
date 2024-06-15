@@ -1,0 +1,50 @@
+name: Build and deploy
+
+on:
+  push:
+    branches: ['main']
+
+permissions:
+  contents: write
+  packages: write
+  deployments: write
+
+jobs:
+  build-and-push-images:
+    runs-on: ubuntu-latest
+
+    env:
+      REGISTRY: ghcr.io
+      IMAGE_NAME: ${{ github.repository }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        arch: [arm64, x64]
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Extract metadata (tags, labels) for Docker
+        id: meta
+        uses: docker/metadata-action@v3
+        with:
+          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+
+      - name: Log in to the Container registry
+        uses: docker/login-action@v1
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push Docker images
+        uses: docker/build-push-action@v2
+        with:
+          context: .
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}-${{ matrix.arch }}
+        env:
+          REGISTRY: ghcr.io
+          IMAGE_NAME: momentum

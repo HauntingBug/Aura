@@ -12,7 +12,7 @@
     "aws-sdk": "^2.1414.0",
     "bcrypt": "^5.1.0",
     "cookie-parser": "^1.4.6",
-    "croner": "^6.0.5",
+    "croner": "^8.0.2",
     "destr": "^2.0.0",
     "dirname-filename-esm": "^1.1.1",
     "discord.js": "^14.11.0",

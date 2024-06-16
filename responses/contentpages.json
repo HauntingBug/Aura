@@ -9,8 +9,8 @@
             "_type": "CommonUI Simple Message",
             "message": {
                 "_type": "CommonUI Simple Message Base",
-                "title": "Momentum",
-                "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010"
+                "title": "Aura",
+                "body": "Backend by Lawin, simplyzetax, and alxan-balao. https://github.com/alxan-balao/Aura. Original authors: @lawin_010 and @simplyzetax"
             }
         },
         "_activeDate": "2017-07-19T13:14:04.490Z",
@@ -222,8 +222,8 @@
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
-                    "title": "Momentum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Aura",
+                    "body": "Backend by Lawin, simplyzetax, and alxan-balao. https://github.com/alxan-balao/Aura. Original authors: @lawin_010 and @simplyzetax",
                     "spotlight": false
                 }
             ]
@@ -1184,28 +1184,28 @@
             "tournaments": [
                 {
                     "title_color": "FFFFFF",
-                    "loading_screen_image": "https://cdn.discordapp.com/attachments/927739901540188200/930882658546876506/lawin.jpg",
+                    "loading_screen_image": "https://cdn.discordapp.com/attachments/1250918007350366208/1251643350516498543/arena.png?ex=666f5335&is=666e01b5&hm=c80271412ebdbcaab1d4e47363429bc3165a9daf0b7d6418a888f13b678e704b&",
                     "background_text_color": "1B1B1B",
                     "background_right_color": "DD091A",
-                    "poster_back_image": "https://cdn.discordapp.com/attachments/927739901540188200/930882658546876506/lawin.jpg",
+                    "poster_back_image": "https://cdn.discordapp.com/attachments/1250918007350366208/1251643350516498543/arena.png?ex=666f5335&is=666e01b5&hm=c80271412ebdbcaab1d4e47363429bc3165a9daf0b7d6418a888f13b678e704b&",
                     "_type": "Tournament Display Info",
-                    "pin_earned_text": "lawin is the winner!",
-                    "tournament_display_id": "s11_switchcup",
+                    "pin_earned_text": "",
+                    "tournament_display_id": "ArenaSolo",
                     "highlight_color": "FFFFFF",
-                    "schedule_info": "November 2nd & 3rd: 2pm - 5pm JST",
+                    "schedule_info": "Aura on top!",
                     "primary_color": "FFFFFF",
-                    "flavor_description": "cool",
-                    "poster_front_image": "https://cdn.discordapp.com/attachments/927739901540188200/930882658546876506/lawin.jpg",
+                    "flavor_description": "",
+                    "poster_front_image": "",
                     "short_format_title": "Event Sessions",
-                    "title_line_2": "boomer",
-                    "title_line_1": "Solo",
+                    "title_line_2": "",
+                    "title_line_1": "Arena by Aura",
                     "shadow_color": "1B1B1B",
-                    "details_description": "ok",
+                    "details_description": "",
                     "background_left_color": "F81B2D",
-                    "long_format_title": "nice",
+                    "long_format_title": "",
                     "poster_fade_color": "DD091A",
                     "secondary_color": "1B1B1B",
-                    "playlist_tile_image": "https://cdn.discordapp.com/attachments/927739901540188200/930882658546876506/lawin.jpg",
+                    "playlist_tile_image": "https://cdn.discordapp.com/attachments/1250918007350366208/1251643350516498543/arena.png?ex=666f5335&is=666e01b5&hm=c80271412ebdbcaab1d4e47363429bc3165a9daf0b7d6418a888f13b678e704b&",
                     "base_color": "FFFFFF"
                 }
             ],
@@ -1222,10 +1222,10 @@
             "_type": "Battle Royale News",
             "messages": [
                 {
-                    "hidden": false,
+                    "hidden": true,
                     "_type": "CommonUI Simple Message Base",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Aura",
+                    "body": "Backend by Lawin, simplyzetax, and alxan-balao. https://github.com/alxan-balao/Aura. Original authors: @lawin_010 and @simplyzetax",
                     "spotlight": true
                 }
             ]
@@ -1249,8 +1249,8 @@
                     "gamemodes": [],
                     "hidden": false,
                     "_type": "CommonUI Emergency Notice Base",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010"
+                    "title": "Aura",
+                    "body": "Backend by Lawin, simplyzetax, and alxan-balao. https://github.com/alxan-balao/Aura. Original authors: @lawin_010 and @simplyzetax"
                 }
             ]
         },
@@ -5982,8 +5982,8 @@
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Aura",
+                    "body": "Backend by Lawin, simplyzetax, and alxan-balao. https://github.com/alxan-balao/Aura. Original authors: @lawin_010 and @simplyzetax",
                     "spotlight": false
                 }
             ]
@@ -6067,8 +6067,8 @@
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Aura",
+                    "body": "Backend by Lawin, simplyzetax, and alxan-balao. https://github.com/alxan-balao/Aura. Original authors: @lawin_010 and @simplyzetax",
                     "spotlight": false
                 }
             ]

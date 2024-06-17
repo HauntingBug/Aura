@@ -26,8 +26,8 @@ This project is licensed under the GNU General Public License v3.0
 - [ ] Update keychain
 - [ ] Add a amount of vbucks to be received in the account once created
 - [ ] News on chapter 2 +
-- [ ] Start in level one when you create the account
-- [ ] Remove all the defaults which are given when creating the account
+- [X] Start in level one when you create the account
+- [X] Remove all the defaults which are given when creating the account
 - [ ] New UI for commands
 - [ ] Web-interface
 

@@ -1,14 +1,122 @@
 {
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:"
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
         ],
-        "price": 0
+        "price": 1
+    },
+    "daily2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "daily3": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "daily4": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "daily7": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "daily8": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "daily9": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "daily10": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:"
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
         ],
-        "price": 0
+        "price": 1
+    },
+    "featured2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "featured4": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "featured5": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "featured6": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "featured7": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "featured8": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "featured9": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
+    },
+    "featured10": {
+        "itemGrants": [
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+        ],
+        "price": 1
     }
 }
